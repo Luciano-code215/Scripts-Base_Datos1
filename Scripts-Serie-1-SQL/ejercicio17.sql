@@ -1,0 +1,4 @@
+--EJERCICIO 17
+
+SELECT TOP 237 * FROM gasto
+ORDER BY importe ASC
